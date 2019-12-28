@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ChinaOpen SSL Code Wiki'
-copyright = '2019, Mark'
-author = 'Mark'
+copyright = '2019,RoboCup SSL ZJUNlict'
+author = 'ZJUNlict'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
