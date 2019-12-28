@@ -70,7 +70,7 @@ source_parsers = {
     '.md': CommonMarkParser,
 }
 source_suffix = ['.rst','.md']
-
+master_doc = 'index'
 # def setup(app):
 #     app.add_config_value('recommonmark_config',{
 #         'auto_toc_tree_section': 'Contents',
