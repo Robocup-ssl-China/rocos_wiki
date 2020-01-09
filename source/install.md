@@ -4,12 +4,25 @@
 
 ---
 
-Client依赖及所需要的工具：
+Client依赖及所需要的工具
 
+* c++17
 * CMake(>=3.12.4)
 * Qt5(>=5.12)
 * zlib(>=1.2.11)
-* protobuf(>=2.6.1)
+* Protobuf(>=2.6.1)
 * Eigen3
 * ODE
 * OpenGL
+
+Medusa依赖以及所需要的工具：
+
+* c++11
+* Qt5(>=5.12)
+* Eigen3
+* Protobuf(>=2.6.1)
+* lua5.1
+* tolua++5.1
+
+
+
